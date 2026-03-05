@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/unity.png
     alt: "Unity"
     title: "Unity"
-    excerpt: "Skills in working with Unity in **3D and 2D**."
+    excerpt: "Experience in working with Unity in **3D and 2D**. I have created 3+ games using Unity in the past year."
   - image_path: /assets/images/unity.png
     alt: "placeholder image 2"
     title: "Placeholder 2"
