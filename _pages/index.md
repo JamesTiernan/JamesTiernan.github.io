@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/placeholder.png
+  overlay_image: /assets/images/banner1.jpg
   actions:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
@@ -15,7 +15,7 @@ header:
 excerpt: "Welcome to my portfolio site."
 intro: 
   - excerpt: 'Blah blah.'
-stuff:
+feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
