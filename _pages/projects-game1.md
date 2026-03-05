@@ -1,7 +1,7 @@
 ---
-title: "Capstone"
+title: "Game 1"
 layout: single
-permalink: /projects/capstone/
+permalink: /projects/game1/
 sidebar:
   title: "Projects"
   nav:
