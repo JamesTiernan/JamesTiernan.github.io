@@ -7,8 +7,8 @@ main:
     children:
       - title: "Game Jam"
         url: /projects/game-jam/
-      - title: "Capstone"
-        url: /projects/capstone/
+      - title: "Game 1"
+        url: /projects/game1/
   - title: "Pages"
     url: /pages/
     children:
