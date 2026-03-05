@@ -1,5 +1,5 @@
 ---
-title: "Page Title"
+title: "James Tiernan - Game Dev Portfolio"
 layout: splash
 permalink: /
 header:
@@ -12,9 +12,9 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "Welcome to my portfolio site."
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'Blah blah.'
 feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
