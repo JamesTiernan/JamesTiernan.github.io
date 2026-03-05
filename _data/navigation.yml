@@ -9,6 +9,8 @@ main:
         url: /projects/game-jam/
       - title: "Game 1"
         url: /projects/game1/
+      - title: "Game 2"
+        url: /projects/game2/
   - title: "Pages"
     url: /pages/
     children:
@@ -26,8 +28,10 @@ main:
 projects:
   - title: "Game Jam"
     url: /projects/game-jam/
-  - title: "Capstone"
-    url: /projects/capstone/
+  - title: "Game 1"
+    url: /projects/game1/
+  - title: "Game 2"
+    url: /projects/game2/
 
 # Sidebar menu for the Pages page
 pages:
