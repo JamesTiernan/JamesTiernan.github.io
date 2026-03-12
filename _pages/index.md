@@ -4,28 +4,27 @@ layout: splash
 permalink: /
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/placeholder.png
+  - url: /assets/images/gallery (1).png
     image_path: /assets/images/gallery (1).png
     alt: "Gameplay 1"
     title: "Core loop"
-    caption: "Core loop"
-  - url: /assets/images/placeholder.png
+  - url: /assets/images/gallery (2).png
     image_path: /assets/images/gallery (2).png
     alt: "Gameplay 2"
     title: "Challenge"
-  - url: /assets/images/placeholder.png
+  - url: /assets/images/gallery (3).png
     image_path: /assets/images/gallery (3).png
     alt: "Gameplay 3"
     title: "Power-ups"
-  - url: /assets/images/placeholder.png
+  - url: /assets/images/gallery (4).png
     image_path: /assets/images/gallery (4).png
     alt: "Gameplay 4"
     title: "Boss arena"
-  - url: /assets/images/placeholder.png
+  - url: /assets/images/gallery (5).png
     image_path: /assets/images/gallery (5).png
     alt: "Gameplay 5"
     title: "UI feedback"
-  - url: /assets/images/placeholder.png
+  - url: /assets/images/gallery (6).png
     image_path: /assets/images/gallery (6).png
     alt: "Gameplay 6"
     title: "Final tweak"
