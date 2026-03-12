@@ -6,16 +6,13 @@ gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/gallery (1).png
     image_path: /assets/images/gallery (1).png
-    alt: "Gameplay 1"
-    title: "Core loop"
+    
   - url: /assets/images/gallery (2).png
     image_path: /assets/images/gallery (2).png
-    alt: "Gameplay 2"
-    title: "Challenge"
+
   - url: /assets/images/gallery (3).png
     image_path: /assets/images/gallery (3).png
-    alt: "Gameplay 3"
-    title: "Power-ups"
+
   - url: /assets/images/gallery (4).png
     image_path: /assets/images/gallery (4).png
     alt: "Gameplay 4"
