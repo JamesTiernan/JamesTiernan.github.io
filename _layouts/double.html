@@ -10,8 +10,9 @@ layout: single
 
 
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
-    {% if page.title %}<meta itemprop="headline" content="{{ page.title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    
 <div style="flex:1 1 250px; min-width:250px;">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | replace: '|', '&#124;' | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
   <p>
     Experienced in Game Development in Unity using C# and currently studying Games Design and Development at university. 
   </p>
