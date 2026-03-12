@@ -7,7 +7,7 @@ main:
     children:
       - title: "Game Jam"
         url: /projects/game-jam/
-      - title: "Game 1"
+      - title: "First Semester 2D Game"
         url: /projects/game1/
       - title: "Game 2"
         url: /projects/game2/
@@ -28,7 +28,7 @@ main:
 projects:
   - title: "Game Jam"
     url: /projects/game-jam/
-  - title: "Game 1"
+  - title: "First Semester 2D Game"
     url: /projects/game1/
   - title: "Game 2"
     url: /projects/game2/

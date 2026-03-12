@@ -1,5 +1,5 @@
 ---
-title: "Game 1"
+title: "First Semester 2D Game"
 layout: single
 permalink: /projects/game1/
 sidebar:
@@ -8,5 +8,7 @@ sidebar:
     - projects
 ---
 
-This page is another project page that is nested within Projects.
+This is the 2D game which was created as part of one of my first semester modules. This was my first time using Unity to create a game and I learnt alot during the process.
+
+I also developed my skills in creating art using Libresprite while making the game.
 
