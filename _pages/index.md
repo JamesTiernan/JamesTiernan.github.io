@@ -21,7 +21,24 @@ gallery_gameplay:
 
   - url: /assets/images/gallery (6).png
     image_path: /assets/images/gallery (6).png
+    
+  - url: /assets/images/gallery (1).png
+    image_path: /assets/images/gallery (1).png
+    
+  - url: /assets/images/gallery (2).png
+    image_path: /assets/images/gallery (2).png
 
+  - url: /assets/images/gallery (3).png
+    image_path: /assets/images/gallery (3).png
+
+  - url: /assets/images/gallery (4).png
+    image_path: /assets/images/gallery (4).png
+
+  - url: /assets/images/gallery (5).png
+    image_path: /assets/images/gallery (5).png
+
+  - url: /assets/images/gallery (6).png
+    image_path: /assets/images/gallery (6).png
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
