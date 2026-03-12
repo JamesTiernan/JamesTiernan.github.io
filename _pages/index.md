@@ -57,5 +57,5 @@ feature_row:
 
 {% include feature_row %}
 
-{% include gallery id="gallery_gameplay" layout="fourth" thumb_height="230px"%}
+{% include gallery id="gallery_gameplay" layout="third" thumb_height="230px"%}
 
