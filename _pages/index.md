@@ -44,7 +44,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Placeholder 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "https://drive.google.com/file/d/1SX9zCxM6nMXCKBIflu2NPNMquBtxBdGE/preview"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unity.png
