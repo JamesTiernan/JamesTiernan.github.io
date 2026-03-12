@@ -15,15 +15,12 @@ layout: single
    <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        {% include video id="IOUA2QHuMd4" provider="youtube" %}
     </section>
 </div>
 
-<div style="flex:1 1 400px; min-width:400px;">
-    {% include video id="IOUA2QHuMd4" provider="youtube" %}
-</div>
-
 <div style="flex:1 1 250px; min-width:250px;">
-    <p>test123</p>
+    <p>test</p>
 </div>
 
 </div>
