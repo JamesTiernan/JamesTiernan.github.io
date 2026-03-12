@@ -1,7 +1,7 @@
 ---
 title: "First Semester 3D Game"
 layout: double
-permalink: /projects/game2/
+permalink: /projects/game3/
 sidebar:
   title: "Projects"
   nav:
