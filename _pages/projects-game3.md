@@ -12,10 +12,10 @@ This is the 3D game which was created as part of one of my first semester module
 
 The main mechanic which I worked on in my 3D game is the shooting of the bow, the goal is for the player to shoot all the targets which are throughout the map.
 
-{% include google-form
-  title="Contact Me"
-  src="https://itch.io/embed/3871421"
-  height="200"
-%}
-
 {% include video id="Tc0FzVeg7xc" provider="youtube" %}
+
+{% include google-form
+  title="Play Now"
+  src="https://itch.io/embed/3871421"
+  height="180"
+%}

@@ -12,3 +12,10 @@ This is the 2D game which was created as part of one of my first semester module
 
 I also developed my skills in creating art using Libresprite while making the game.
 
+{% include video id="IOUA2QHuMd4" provider="youtube" %}
+
+{% include google-form
+  title="Play Now"
+  src="https://itch.io/embed/3871421"
+  height="180"
+%}
