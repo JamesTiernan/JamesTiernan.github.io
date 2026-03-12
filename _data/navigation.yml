@@ -11,7 +11,7 @@ main:
         url: /projects/game1/
       - title: "First Semester 3D Game"
         url: /projects/game2/
-      - title: "Game 3"
+      - title: "Tinker Trails Demo"
         url: /projects/game3/
   - title: "Pages"
     url: /pages/
@@ -34,7 +34,7 @@ projects:
     url: /projects/game1/
   - title: "First Semester 3D Game"
     url: /projects/game2/
-  - title: "Game 3"
+  - title: "Tinker Trails Demo"
     url: /projects/game3/
 
 # Sidebar menu for the Pages page

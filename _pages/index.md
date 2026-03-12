@@ -15,16 +15,13 @@ gallery_gameplay:
 
   - url: /assets/images/gallery (4).png
     image_path: /assets/images/gallery (4).png
-    alt: "Gameplay 4"
-    title: "Boss arena"
+
   - url: /assets/images/gallery (5).png
     image_path: /assets/images/gallery (5).png
-    alt: "Gameplay 5"
-    title: "UI feedback"
+
   - url: /assets/images/gallery (6).png
     image_path: /assets/images/gallery (6).png
-    alt: "Gameplay 6"
-    title: "Final tweak"
+
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
