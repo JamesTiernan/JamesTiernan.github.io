@@ -14,7 +14,7 @@ The main mechanic which I worked on in my 3D game is the shooting of the bow, th
 
 {% include video id="Tc0FzVeg7xc" provider="youtube" %}
 
-{% include google-form
+{% include itch-embed
   title="Play Now"
   src="https://itch.io/embed/3871421"
   height="180"

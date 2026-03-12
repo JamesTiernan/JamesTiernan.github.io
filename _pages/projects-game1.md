@@ -14,7 +14,7 @@ I also developed my skills in creating art using Libresprite while making the ga
 
 {% include video id="IOUA2QHuMd4" provider="youtube" %}
 
-{% include google-form
+{% include itch-embed
   title="Play Now"
   src="https://itch.io/embed/3871421"
   height="180"
