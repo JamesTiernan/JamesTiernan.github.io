@@ -1,6 +1,6 @@
 ---
 title: "First Semester 2D Game"
-layout: single
+layout: double
 permalink: /projects/game1/
 sidebar:
   title: "Projects"
