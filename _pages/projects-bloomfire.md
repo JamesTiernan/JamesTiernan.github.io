@@ -9,6 +9,7 @@ header:
 sidebar:
   title: "Projects"
   nav:
+   - projects
 gallery_bloom:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/bloomfire (1).png
