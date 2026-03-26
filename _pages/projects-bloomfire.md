@@ -9,21 +9,23 @@ header:
 sidebar:
   title: "Projects"
   nav:
-    - projects
-feature_row:
-  - image_path: /assets/images/bloomfire (1).png
+gallery_bloom:
+  # Recommended: width "240px" to "320px" keeps a neat grid
+  - url: /assets/images/bloomfire (1).png
+    image_path: /assets/images/bloomfire (1).png
+    
+  - url: /assets/images/bloomfire (2).png
+    image_path: /assets/images/bloomfire (2).png
 
-  - image_path: /assets/images/bloomfire (2).png
-
-  - image_path: /assets/images/bloomfire (3).png
-
+  - url: /assets/images/bloomfire (3).png
+    image_path: /assets/images/bloomfire (3).png
 ---
 
 This is a project which I made for a game jam in ~ 2 days.
 
 The game features about 5-10 minutes of gameplay.
 
-{% include feature_row %}
+{% include gallery id="gallery_bloom" layout="third" thumb_height="230px"%}
 
 {% include itch-embed
   title="Play Now"
