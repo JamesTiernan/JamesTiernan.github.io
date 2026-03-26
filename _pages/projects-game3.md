@@ -10,6 +10,13 @@ sidebar:
   title: "Projects"
   nav:
     - projects
+feature_row:
+  - image_path: /assets/images/bloomfire (1).png
+
+  - image_path: /assets/images/bloomfire (2).png
+
+  - image_path: /assets/images/bloomfire (3).png
+
 ---
 
 This is a project which I made in Godot in my free time. It's a basic 3D platformer with puzzle mechanics and exploration.
@@ -17,7 +24,7 @@ This is a project which I made in Godot in my free time. It's a basic 3D platfor
 The project was made in about a week and it features about 5-10 minutes of gameplay.
 This was the first game I have made with controller support.
 
-{% include video id="Tc0FzVeg7xc" provider="youtube" %}
+{% include feature_row %}
 
 {% include itch-embed
   title="Play Now"
