@@ -10,11 +10,20 @@ sidebar:
   title: "Projects"
   nav:
     - projects
+feature_row:
+  - image_path: /assets/images/bloomfire (1).png
+
+  - image_path: /assets/images/bloomfire (2).png
+
+  - image_path: /assets/images/bloomfire (3).png
+
 ---
 
 This is the 3D game which was created as part of one of my first semester modules. I developed my skills in building 3D Worlds using Probuilder. I also improved my skills in programming mechanics for 3D games.
 
 The main mechanic which I worked on in my 3D game is the shooting of the bow, the goal is for the player to shoot all the targets which are throughout the map.
+
+{% include feature_row %}
 
 {% include video id="Tc0FzVeg7xc" provider="youtube" %}
 
