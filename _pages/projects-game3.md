@@ -2,6 +2,10 @@
 title: "Tinker Trails Demo"
 layout: double
 permalink: /projects/game3/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/banner1.jpg
 sidebar:
   title: "Projects"
   nav:

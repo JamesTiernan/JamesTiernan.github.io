@@ -2,6 +2,10 @@
 title: "First Semester 3D Game"
 layout: double
 permalink: /projects/game2/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/banner1.jpg
 sidebar:
   title: "Projects"
   nav:
