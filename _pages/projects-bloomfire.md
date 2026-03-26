@@ -10,13 +10,20 @@ sidebar:
   title: "Projects"
   nav:
     - projects
+feature_row:
+  - image_path: /assets/images/bloomfire (1).png
+
+  - image_path: /assets/images/bloomfire (2).png
+
+  - image_path: /assets/images/bloomfire (3).png
+
 ---
 
 This is a project which I made for a game jam in ~ 2 days.
 
 The game features about 5-10 minutes of gameplay.
 
-{% include video id="Tc0FzVeg7xc" provider="youtube" %}
+{% include feature_row %}
 
 {% include itch-embed
   title="Play Now"
