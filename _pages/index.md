@@ -68,6 +68,9 @@ feature_row:
     alt: "3D Art"
     title: "3D Art"
     excerpt: "Experience in creating 3D art using blockbench and blender."
+    url: "https://drive.google.com/file/d/1SX9zCxM6nMXCKBIflu2NPNMquBtxBdGE/preview"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="left" %}
