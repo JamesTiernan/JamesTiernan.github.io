@@ -57,14 +57,14 @@ feature_row:
     alt: "Unity"
     title: "Unity"
     excerpt: "Experience in working with Unity in **3D and 2D**. I have created 3+ games using Unity in the past year."
-  - image_path: /assets/images/unity.png
+  - image_path: /assets/images/2d-art.png
     alt: "2D Art"
     title: "2D Art"
     excerpt: "Experience in creative 2D art in Pixel and Vector art styles."
     url: "https://drive.google.com/file/d/1SX9zCxM6nMXCKBIflu2NPNMquBtxBdGE/preview"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unity.png
+  - image_path: /assets/images/3d-art.png
     alt: "3D Art"
     title: "3D Art"
     excerpt: "Experience in creating 3D art using blockbench and blender."
