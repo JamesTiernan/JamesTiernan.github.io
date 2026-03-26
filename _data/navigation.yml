@@ -13,6 +13,8 @@ main:
         url: /projects/game2/
       - title: "Tinker Trails Demo"
         url: /projects/game3/
+      - title: "Bloomfire"
+        url: /projects/bloomfire/
   - title: "Pages"
     url: /pages/
     children:
@@ -36,6 +38,8 @@ projects:
     url: /projects/game2/
   - title: "Tinker Trails Demo"
     url: /projects/game3/
+  - title: "Bloomfire"
+    url: /projects/bloomfire/
 
 # Sidebar menu for the Pages page
 pages:
