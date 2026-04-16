@@ -11,12 +11,9 @@ sidebar:
   nav:
     - projects
 feature_row:
-  - image_path: /assets/images/bloomfire (1).png
+  - image_path: /assets/images/gallery (2).png
 
-  - image_path: /assets/images/bloomfire (2).png
-
-  - image_path: /assets/images/bloomfire (3).png
-
+  - image_path: /assets/images/gallery (5).png
 ---
 
 This is the 2D game which was created as part of one of my first semester modules. This was my first time using Unity to create a game and I learnt alot during the process.

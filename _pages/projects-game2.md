@@ -11,11 +11,11 @@ sidebar:
   nav:
     - projects
 feature_row:
-  - image_path: /assets/images/bloomfire (1).png
+  - image_path: /assets/images/castle.png
 
-  - image_path: /assets/images/bloomfire (2).png
+  - image_path: /assets/images/castle2.png
 
-  - image_path: /assets/images/bloomfire (3).png
+  - image_path: /assets/images/castle3.png
 
 ---
 
