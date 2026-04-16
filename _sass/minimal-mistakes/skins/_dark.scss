@@ -30,20 +30,20 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 }
 
 
-.skill-card {
+.skills {
   background-color: $background-color;
   color: $text-color;
   border: 1px solid $border-color;
 }
 
-.skill-card__title {
+.skills__title {
   color: lighten($text-color, 5%);
 }
 
-.skill-card__meta-label {
+.skills__meta-label {
   color: mix($text-color, $background-color, 60%);
 }
 
-.skill-card__meta-value {
+.skills__meta-value {
   color: $primary-color;
 }
