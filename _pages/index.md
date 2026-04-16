@@ -14,8 +14,6 @@ header:
 
 
 excerpt: "An experienced and passionate Game Developer, with experience using various tools such as **Unity**, **Godot**, **Libresprite**, **Davinci Resolve** and **VS Code**."
-intro: 
-  - excerpt: 'Experienced in Game Development in Unity using C# and currently studying Games Design and Development at university. Have been creating games for the past 10 years. Developed many solo games over the past 4 years and currently working in a team to build a 2D game in university. Confident programming skills and can quickly adapt to using new programming languages. Skilled in all aspects of games development including Games Design, Art, Programming and Sound Design.'
 feature_row:
   - image_path: /assets/images/unity.png
     alt: "Unity"
@@ -46,6 +44,7 @@ skills:
     text: "Experience in creating game art in various styles from Vector, Pixel art and 3D art. Experience in rigging and animating 2D characters."
     level_label: "Intermediate"
 ---
+Experienced in Game Development in Unity using C# and currently studying Games Design and Development at university. Have been creating games for the past 10 years. Developed many solo games over the past 4 years and currently working in a team to build a 2D game in university. Confident programming skills and can quickly adapt to using new programming languages. Skilled in all aspects of games development including Games Design, Art, Programming and Sound Design.
 
 {% include feature_row id="intro" type="middle" %}
 
