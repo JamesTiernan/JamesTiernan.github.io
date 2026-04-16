@@ -12,8 +12,6 @@ header:
       url: "https://drive.google.com/file/d/1SX9zCxM6nMXCKBIflu2NPNMquBtxBdGE/preview"
       target: "_blank"
 
-
-excerpt: "An experienced and passionate Game Developer, with experience using various tools such as **Unity**, **Godot**, **Libresprite**, **Davinci Resolve** and **VS Code**."
 feature_row:
   - image_path: /assets/images/unity.png
     alt: "Unity"
@@ -44,7 +42,24 @@ skills:
     text: "Experience in creating game art in various styles from Vector, Pixel art and 3D art. Experience in rigging and animating 2D characters."
     level_label: "Intermediate"
 ---
-Experienced in Game Development in Unity using C# and currently studying Games Design and Development at university. Have been creating games for the past 10 years. Developed many solo games over the past 4 years and currently working in a team to build a 2D game in university. Confident programming skills and can quickly adapt to using new programming languages. Skilled in all aspects of games development including Games Design, Art, Programming and Sound Design.
+<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
+
+  <!-- LEFT: text content -->
+  <div style="flex:1 1 250px; min-width:250px;">
+    <h2>About Me</h2>
+    <p>
+      Experienced in Game Development in Unity using C# and currently studying Games Design and Development at university. Have been creating games for the past 10 years. Developed many solo games over the past 4 years and currently working in a team to build a 2D game in university. Confident programming skills and can quickly adapt to using new programming languages. Skilled in all aspects of games development including Games Design, Art, Programming and Sound Design.
+    </p>
+  </div>
+
+  <!-- RIGHT: video/content area -->
+  <div style="flex:1 1 250px; min-width:250px;">
+    <!-- Replace this placeholder with a YouTube iframe or a video tag -->
+    {% include video id="Tc0FzVeg7xc" provider="youtube" %}
+  </div>
+
+</div>
+
 
 {% include feature_row id="intro" type="middle" %}
 
