@@ -32,7 +32,7 @@ feature_row:
     url: "https://s-studios.itch.io/plague-wizard"
     btn_label: "Play"
     btn_class: "btn--primary"
-feature_row2:
+second_row:
   - image_path: /assets/images/blm.png
     alt: "Game Jam Project"
     title: "Bloomfire"
@@ -43,4 +43,4 @@ feature_row2:
 ---
 
 {% include feature_row %}
-{% include feature_row2 %}
+{% include second_row %}
