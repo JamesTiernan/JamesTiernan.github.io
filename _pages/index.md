@@ -2,43 +2,7 @@
 title: "James Tiernan - Game Dev Portfolio"
 layout: splash
 permalink: /
-gallery_gameplay:
-  # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/gallery (1).png
-    image_path: /assets/images/gallery (1).png
-    
-  - url: /assets/images/castle1.png
-    image_path: /assets/images/castle1.png
 
-  - url: /assets/images/gallery (4).png
-    image_path: /assets/images/gallery (4).png
-
-  - url: /assets/images/gallery (3).png
-    image_path: /assets/images/gallery (3).png
-
-  - url: /assets/images/gallery (5).png
-    image_path: /assets/images/gallery (5).png
-
-  - url: /assets/images/bloomfire (3).png
-    image_path: /assets/images/bloomfire (3).png
-    
-  - url: /assets/images/tinker1.png
-    image_path: /assets/images/tinker1.png
-    
-  - url: /assets/images/ggg.png
-    image_path: /assets/images/ggg.png
-
-  - url: /assets/images/castle2.png
-    image_path: /assets/images/castle2.png
-
-  - url: /assets/images/wool1.png
-    image_path: /assets/images/wool1.png
-
-  - url: /assets/images/tinker3.png
-    image_path: /assets/images/tinker3.png
-
-  - url: /assets/images/gallery (6).png
-    image_path: /assets/images/gallery (6).png
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -65,11 +29,22 @@ feature_row:
     alt: "3D Art"
     title: "3D Art"
     excerpt: "Experience in creating 3D art using blockbench and blender."
+skills:
+  - name: "Unity"
+    icon: "fab fa-fw fa-unity"
+    badges: ["C#", "Game Dev"]
+    text: "Built multiple prototypes and participated in game jams."
+    years: 2
+  - name: "Game Design"
+    icon: "fas fa-fw fa-gamepad"
+    badges: ["Game Mechanics", "Levels", "UI"]
+    text: "Designed mechanics, levels, and player feedback loops."
+    level_label: "Intermediate"
 ---
 
 {% include feature_row id="intro" type="middle" %}
 
 {% include feature_row %}
 
-{% include gallery id="gallery_gameplay" layout="third" thumb_height="230px"%}
+{% include skills skills=page.skills %}
 
