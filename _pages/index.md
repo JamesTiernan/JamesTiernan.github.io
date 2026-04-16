@@ -30,17 +30,14 @@ skills:
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev"]
     text: "Built multiple prototypes and participated in game jams."
-    years: 2
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Designed mechanics, levels, and player feedback loops."
-    level_label: "Intermediate"
   - name: "Game Art"
     icon: "fas fa-solid fa-paintbrush"
     badges: ["Level Art", "Libresprite", "Photoshop", "Inkscapes","2D Rigged Character Animation"]
     text: "Experience in creating game art in various styles from Vector, Pixel art and 3D art. Experience in rigging and animating 2D characters."
-    level_label: "Intermediate"
 ---
 <div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
 
