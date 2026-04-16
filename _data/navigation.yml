@@ -11,10 +11,14 @@ main:
         url: /projects/game1/
       - title: "First Semester 3D Game"
         url: /projects/game2/
+      - title: "Shuffle Dungeon"
+        url: /projects/boardgame/
       - title: "Tinker Trails Demo"
         url: /projects/game3/
       - title: "Bloomfire"
         url: /projects/bloomfire/
+      - title: "Awesome Gun Game"
+        url: /projects/awesinegungame/
   - title: "Contact Me"
     url: /contactme/
 
@@ -28,6 +32,8 @@ projects:
     url: /projects/game1/
   - title: "First Semester 3D Game"
     url: /projects/game2/
+  - title: "Shuffle Dungeon"
+    url: /projects/boardgame/
   - title: "Tinker Trails Demo"
     url: /projects/game3/
   - title: "Bloomfire"
