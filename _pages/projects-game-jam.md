@@ -1,5 +1,5 @@
 ---
-title: "Game Jam"
+title: "Game Jam Projects"
 layout: single
 permalink: /projects/game-jam/
 header:

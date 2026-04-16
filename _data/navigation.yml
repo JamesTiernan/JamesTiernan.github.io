@@ -20,7 +20,7 @@ main:
 
 # Sidebar menu for the Projects page
 projects:
-  - title: "Game Jam"
+  - title: "Game Jam Projects"
     url: /projects/game-jam/
   - title: "First Semester 2D Game"
     url: /projects/game1/
