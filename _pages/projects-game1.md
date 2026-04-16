@@ -19,25 +19,9 @@ gallery_2dsem:
     image_path: /assets/images/gallery (5).png
 ---
 
-<div style="display:flex; flex-wrap:wrap; gap:2rem; align-items:flex-start;">
+This is the 2D game which was created as part of one of my first semester modules. This was my first time using Unity to create a game and I learnt alot during the process.
 
-  <!-- LEFT: text content -->
-  <div style="flex:1 1 250px; min-width:250px;">
-    <h2>1st Semester 2D Game - 2D Platformer</h2>
-    <p>
-      This is the 2D game which was created as part of one of my first semester modules. This was my first time using Unity to create a game and I learnt alot during the process.
-
-      I also developed my skills in creating art using Libresprite while making the game.
-    </p>
-  </div>
-
-  <!-- RIGHT: video/content area -->
-  <div style="flex:1 1 250px; min-width:250px;">
-    <!-- Replace this placeholder with a YouTube iframe or a video tag -->
-    {% include video id="IOUA2QHuMd4" provider="youtube" %}
-  </div>
-
-</div>
+I also developed my skills in creating art using Libresprite while making the game.
 
 {% include gallery id="gallery_2dsem" layout="half" thumb_height="200px"%}
 
