@@ -27,7 +27,7 @@ When making the board game I gained an insight into how games can be design to b
 
 My board game was a roguelike dungeon crawler for 2-4 players. The games difficulty would increase as players progressed through the floors of the dungeon.
 
-{% include gallery id="gallery_boardgame" layout="half" thumb_height="320px"%}
+{% include gallery id="gallery_boardgame" layout="half" thumb_height="200px"%}
 
 {% include video id="Yhsqnj-DBaY" provider="youtube" %}
 
