@@ -11,7 +11,7 @@ sidebar:
   nav:
     - projects
 feature_row:
-  - image_path: /assets/images/castle.png
+  - image_path: /assets/images/castle1.png
 
   - image_path: /assets/images/castle2.png
 
@@ -26,9 +26,3 @@ The main mechanic which I worked on in my 3D game is the shooting of the bow, th
 {% include feature_row %}
 
 {% include video id="Tc0FzVeg7xc" provider="youtube" %}
-
-{% include itch-embed
-  title="Play Now"
-  src="https://itch.io/embed/3871421"
-  height="180"
-%}
