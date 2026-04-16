@@ -31,7 +31,7 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
 
 .skill-card {
-  background-color: mix(#fff, $background-color, 10%);
+  background-color: $background-color;
   color: $text-color;
   border: 1px solid $border-color;
 }
