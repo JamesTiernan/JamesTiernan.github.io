@@ -19,8 +19,8 @@ gallery_gameplay:
   - url: /assets/images/gallery (5).png
     image_path: /assets/images/gallery (5).png
 
-  - url: /assets/images/gallery (6).png
-    image_path: /assets/images/gallery (6).png
+  - url: /assets/images/bloomfire (3).png
+    image_path: /assets/images/bloomfire (3).png
     
   - url: /assets/images/tinker1.png
     image_path: /assets/images/tinker1.png
@@ -37,8 +37,8 @@ gallery_gameplay:
   - url: /assets/images/tinker3.png
     image_path: /assets/images/tinker3.png
 
-  - url: /assets/images/bloomfire (3).png
-    image_path: /assets/images/bloomfire (3).png
+  - url: /assets/images/gallery (6).png
+    image_path: /assets/images/gallery (6).png
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
