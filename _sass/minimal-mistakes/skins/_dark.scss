@@ -28,3 +28,23 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
 }
+
+
+.skill-card {
+  background-color: mix(#fff, $background-color, 10%);
+  color: $text-color;
+  border: 1px solid $border-color;
+}
+
+.skill-card__title {
+  color: lighten($text-color, 5%);
+}
+
+.skill-card__meta-label {
+  color: mix($text-color, $background-color, 60%);
+}
+
+.skill-card__meta-value {
+  color: $primary-color;
+}
+``
