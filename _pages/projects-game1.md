@@ -26,7 +26,7 @@ This is the 2D game which was created as part of one of my first semester module
 
 I also developed my skills in creating art using Libresprite while making the game.
 
-{% include gallery id="gallery_2dsem" layout="third" thumb_height="230px"%}
+{% include gallery id="gallery_2dsem" layout="half" thumb_height="200px"%}
 
 {% include video id="IOUA2QHuMd4" provider="youtube" %}
 

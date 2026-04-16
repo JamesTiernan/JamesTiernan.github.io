@@ -28,7 +28,7 @@ It is a 3D top-down perspective shooter. The gameplay involves surviving endless
 
 The game has resource management mechanics where the player must manage their health and ammunition carefully.
 
-{% include gallery id="gallery_awesome" layout="third" thumb_height="230px"%}
+{% include gallery id="gallery_awesome" layout="half" thumb_height="200px"%}
 
 {% include itch-embed
   title="Play Now"

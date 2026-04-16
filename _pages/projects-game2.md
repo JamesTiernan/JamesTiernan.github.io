@@ -26,6 +26,6 @@ This is the 3D game which was created as part of one of my first semester module
 
 The main mechanic which I worked on in my 3D game is the shooting of the bow, the goal is for the player to shoot all the targets which are throughout the map.
 
-{% include gallery id="gallery_3dsem" layout="third" thumb_height="230px"%}
+{% include gallery id="gallery_3dsem" layout="half" thumb_height="200px"%}
 
 {% include video id="Tc0FzVeg7xc" provider="youtube" %}

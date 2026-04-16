@@ -27,7 +27,7 @@ This is a project which I made in Godot in my free time. It's a basic 3D platfor
 The project was made in about a week and it features about 5-10 minutes of gameplay.
 This was the first game I have made with controller support.
 
-{% include gallery id="gallery_tk" layout="third" thumb_height="230px"%}
+{% include gallery id="gallery_tk" layout="half" thumb_height="200px"%}
 
 {% include itch-embed
   title="Play Now"
