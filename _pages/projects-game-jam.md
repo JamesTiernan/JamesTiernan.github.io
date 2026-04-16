@@ -28,10 +28,19 @@ feature_row:
   - image_path: /assets/images/wiz.png
     alt: "Game Jam Project"
     title: "Plague Mage"
-    excerpt: "A 2D Game about saving a village from an infection. Made in 3 days and placed 34d."
+    excerpt: "A 2D Game about saving a village from an infection. Made in 3 days and placed 3rd."
     url: "https://s-studios.itch.io/plague-wizard"
+    btn_label: "Play"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: /assets/images/blm.png
+    alt: "Game Jam Project"
+    title: "Bloomfire"
+    excerpt: "A 2D Strategy game about saving a dying planet. Made in 4 days and placed 1st"
+    url: "https://mrmistereee.itch.io/bloomfire"
     btn_label: "Play"
     btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
+{% include feature_row2 %}
