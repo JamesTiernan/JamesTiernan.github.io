@@ -52,7 +52,7 @@ gallery_gameplay:
 
 Welcome to the projects page. Here you will be able to view and play some projects which I have made.
 
-You can use the sidebar to navigate to my projects.
+You can use the **sidebar** to navigate to my projects.
 
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="230px"%}
 
