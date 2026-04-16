@@ -13,12 +13,13 @@ sidebar:
 excerpt: "Here you can find various game projects which I have worked on."
 ---
 
-Welcome to the projects page. This is where you can list your game projects.
+Welcome to the projects page. Here you will be able to find the various projects which I have worked on.
 
+{% comment %}
 You can use this page to show a reel of all projects and then have a separate page for each project.
 
 {% include video id="IOUA2QHuMd4" provider="youtube" %}
 
-
+{% endcomment %}
 
 
