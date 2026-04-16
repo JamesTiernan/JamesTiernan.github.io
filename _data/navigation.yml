@@ -15,17 +15,7 @@ main:
         url: /projects/game3/
       - title: "Bloomfire"
         url: /projects/bloomfire/
-  - title: "Pages"
-    url: /pages/
-    children:
-      - title: "Default Layout"
-        url: /pages/default/
-      - title: "Single Layout"
-        url: /pages/single/
-      - title: "Splash Layout"
-        url: /pages/splash/
-  - title: "Components"
-    url: /components/
+
  
 
 # Sidebar menu for the Projects page
