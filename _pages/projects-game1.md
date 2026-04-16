@@ -17,9 +17,6 @@ gallery_2dsem:
     
   - url: /assets/images/gallery (5).png
     image_path: /assets/images/gallery (5).png
-
-  - url: /assets/images/bloomfire (3).png
-    image_path: /assets/images/bloomfire (3).png
 ---
 
 This is the 2D game which was created as part of one of my first semester modules. This was my first time using Unity to create a game and I learnt alot during the process.

@@ -26,7 +26,7 @@ This is a project which I made for a game jam in ~ 2 days.
 
 The game features about 5-10 minutes of gameplay.
 
-{% include gallery id="gallery_bloom" layout="half" thumb_height="100px"%}
+{% include gallery id="gallery_bloom" layout="half" thumb_height="240px"%}
 
 {% include itch-embed
   title="Play Now"
