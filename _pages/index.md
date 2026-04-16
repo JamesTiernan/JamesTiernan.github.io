@@ -10,11 +10,11 @@ gallery_gameplay:
   - url: /assets/images/castle1.png
     image_path: /assets/images/castle1.png
 
-  - url: /assets/images/gallery (3).png
-    image_path: /assets/images/gallery (3).png
-
   - url: /assets/images/gallery (4).png
     image_path: /assets/images/gallery (4).png
+
+  - url: /assets/images/gallery (3).png
+    image_path: /assets/images/gallery (3).png
 
   - url: /assets/images/gallery (5).png
     image_path: /assets/images/gallery (5).png
