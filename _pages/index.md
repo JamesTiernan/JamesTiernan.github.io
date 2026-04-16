@@ -22,11 +22,11 @@ gallery_gameplay:
   - url: /assets/images/gallery (6).png
     image_path: /assets/images/gallery (6).png
     
-  - url: /assets/images/gallery (1).png
-    image_path: /assets/images/gallery (1).png
+  - url: /assets/images/tinker1.png
+    image_path: /assets/images/tinker1.png
     
-  - url: /assets/images/tinker3.png
-    image_path: /assets/images/tinker3.png
+  - url: /assets/images/ggg.png
+    image_path: /assets/images/ggg.png
 
   - url: /assets/images/castle2.png
     image_path: /assets/images/castle2.png
