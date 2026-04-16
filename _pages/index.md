@@ -7,8 +7,8 @@ gallery_gameplay:
   - url: /assets/images/gallery (1).png
     image_path: /assets/images/gallery (1).png
     
-  - url: /assets/images/gallery (2).png
-    image_path: /assets/images/gallery (2).png
+  - url: /assets/images/castle1.png
+    image_path: /assets/images/castle1.png
 
   - url: /assets/images/gallery (3).png
     image_path: /assets/images/gallery (3).png
@@ -25,20 +25,20 @@ gallery_gameplay:
   - url: /assets/images/gallery (1).png
     image_path: /assets/images/gallery (1).png
     
-  - url: /assets/images/gallery (2).png
-    image_path: /assets/images/gallery (2).png
+  - url: /assets/images/tinker3.png
+    image_path: /assets/images/tinker3.png
 
-  - url: /assets/images/gallery (3).png
-    image_path: /assets/images/gallery (3).png
+  - url: /assets/images/castle2.png
+    image_path: /assets/images/castle2.png
 
-  - url: /assets/images/gallery (4).png
-    image_path: /assets/images/gallery (4).png
+  - url: /assets/images/wool1.png
+    image_path: /assets/images/wool1.png
 
-  - url: /assets/images/gallery (5).png
-    image_path: /assets/images/gallery (5).png
+  - url: /assets/images/tinker3.png
+    image_path: /assets/images/tinker3.png
 
-  - url: /assets/images/gallery (6).png
-    image_path: /assets/images/gallery (6).png
+  - url: /assets/images/bloomfire (3).png
+    image_path: /assets/images/bloomfire (3).png
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
