@@ -11,11 +11,11 @@ sidebar:
   nav:
     - projects
 feature_row:
-  - image_path: /assets/images/bloomfire (1).png
+  - image_path: /assets/images/tinker1.png
 
-  - image_path: /assets/images/bloomfire (2).png
+  - image_path: /assets/images/tinker2.png
 
-  - image_path: /assets/images/bloomfire (3).png
+  - image_path: /assets/images/tinker3.png
 
 ---
 
@@ -25,8 +25,6 @@ The project was made in about a week and it features about 5-10 minutes of gamep
 This was the first game I have made with controller support.
 
 {% include feature_row %}
-
-{% include video id="Tc0FzVeg7xc" provider="youtube" %}
 
 {% include itch-embed
   title="Play Now"
