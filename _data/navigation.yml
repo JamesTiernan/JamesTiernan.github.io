@@ -30,7 +30,8 @@ projects:
     url: /projects/game3/
   - title: "Bloomfire"
     url: /projects/bloomfire/
-
+  - title: "Awesome Gun Game"
+    url: /projects/awesomegungame/
 # Sidebar menu for the Pages page
 pages:
   - title: "Default Layout"

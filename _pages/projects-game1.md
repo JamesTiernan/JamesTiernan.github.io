@@ -10,17 +10,23 @@ sidebar:
   title: "Projects"
   nav:
     - projects
-feature_row:
-  - image_path: /assets/images/gallery (2).png
+gallery_2dsem:
+  # Recommended: width "240px" to "320px" keeps a neat grid
+  - url: /assets/images/gallery (2).png
+    image_path: /assets/images/gallery (2).png
+    
+  - url: /assets/images/gallery (5).png
+    image_path: /assets/images/gallery (5).png
 
-  - image_path: /assets/images/gallery (5).png
+  - url: /assets/images/bloomfire (3).png
+    image_path: /assets/images/bloomfire (3).png
 ---
 
 This is the 2D game which was created as part of one of my first semester modules. This was my first time using Unity to create a game and I learnt alot during the process.
 
 I also developed my skills in creating art using Libresprite while making the game.
 
-{% include feature_row %}
+{% include gallery id="gallery_2dsem" layout="third" thumb_height="230px"%}
 
 {% include video id="IOUA2QHuMd4" provider="youtube" %}
 
