@@ -31,6 +31,7 @@ The project was made in about a week and it features about 5-10 minutes of gamep
 This was the first game I have made with controller support.
 
 {% include gallery id="gallery_tk" layout="half" thumb_height="200px"%}
+I created the art using Blockbench.
 
 {% include itch-embed
   title="Play Now"
