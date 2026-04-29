@@ -88,6 +88,8 @@ Welcome to the projects page. Here you will be able to view and play some projec
 
 You can use the **sidebar** to navigate to my projects.
 
+Youn can click any image in the gallery below to read more details.
+
 {% include gallery id="gallery_gameplay" layout="third" thumb_height="230px"%}
 
 {% comment %}
