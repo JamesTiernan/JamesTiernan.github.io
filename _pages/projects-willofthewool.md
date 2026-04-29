@@ -20,7 +20,7 @@ gallery_wool1:
 
   - url: /assets/images/castle3.png
     image_path: /assets/images/castle3.png
-gallery_wool1:
+gallery_wool2:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/wool1.png
     image_path: /assets/images/wool1.png
