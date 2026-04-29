@@ -32,5 +32,7 @@ My board game was a roguelike dungeon crawler for 2-4 players. The games difficu
 
 {% include gallery id="gallery_boardgame" layout="half" thumb_height="200px"%}
 
+Designing and drawing the art for the various parts of the game, such as enemies or dungeon tiles, was very enjoyable and I liked the creativity of new enemy designs.
+
 {% include video id="Yhsqnj-DBaY" provider="youtube" %}
 

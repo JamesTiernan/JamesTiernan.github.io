@@ -22,6 +22,7 @@ gallery_2dsem:
 This is the 2D game which was created as part of one of my first semester modules. This was my first time using Unity to create a game and I learnt alot during the process.
 
 I also developed my skills in creating art using Libresprite while making the game.
+I also developed skills in animating and sound design for the game.
 
 {% include gallery id="gallery_2dsem" layout="half" thumb_height="200px"%}
 

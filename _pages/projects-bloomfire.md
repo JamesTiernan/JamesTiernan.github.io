@@ -24,11 +24,13 @@ gallery_bloom:
     image_path: /assets/images/bloomfire (4).png
 ---
 
-This is a project which I made for a game jam in ~ 2 days.
+This is a project which I made for a game jam in ~2 days.
 
 The game features about 5-10 minutes of gameplay.
 
 {% include gallery id="gallery_bloom" layout="half" thumb_height="240px"%}
+
+I created my own pixel art for the game which I was very proud of as it really fits the game.
 
 {% include itch-embed
   title="Play Now"

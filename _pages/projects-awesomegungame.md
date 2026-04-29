@@ -20,8 +20,8 @@ gallery_awesome:
 
   - url: /assets/images/ggg.png
     image_path: /assets/images/ggg.png
-  - url: /assets/images/agg2.png
-    image_path: /assets/images/agg2.png
+  - url: /assets/images/Agg2.png
+    image_path: /assets/images/Agg2.png
 ---
 
 This is my first ever project I made with Godot. It was made in a few weeks and features various levels.
@@ -31,6 +31,8 @@ It is a 3D top-down perspective shooter. The gameplay involves surviving endless
 The game has resource management mechanics where the player must manage their health and ammunition carefully.
 
 {% include gallery id="gallery_awesome" layout="half" thumb_height="200px"%}
+
+Alot of time was spent on polishing the camera movement and the atmosphere of the game. I created many SFX and particle effects which make the game very satisfying to play.
 
 {% include itch-embed
   title="Play Now"

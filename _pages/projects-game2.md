@@ -20,6 +20,7 @@ gallery_3dsem:
 
   - url: /assets/images/castle3.png
     image_path: /assets/images/castle3.png
+    
   - url: /assets/images/gallery (4).png
     image_path: /assets/images/gallery (4).png
 ---
