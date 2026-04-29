@@ -20,6 +20,8 @@ gallery_tk:
 
   - url: /assets/images/tinker3.png
     image_path: /assets/images/tinker3.png
+  - url: /assets/images/tktic.png
+    image_path: /assets/images/tktic.png
 ---
 
 This is a project which I made in Godot in my free time. It's a basic 3D platformer with puzzle mechanics and exploration.

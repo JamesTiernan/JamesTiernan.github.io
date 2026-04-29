@@ -20,6 +20,8 @@ gallery_bloom:
 
   - url: /assets/images/bloomfire (3).png
     image_path: /assets/images/bloomfire (3).png
+  - url: /assets/images/bloomfire (4).png
+    image_path: /assets/images/bloomfire (4).png
 ---
 
 This is a project which I made for a game jam in ~ 2 days.

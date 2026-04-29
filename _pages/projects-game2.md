@@ -20,6 +20,8 @@ gallery_3dsem:
 
   - url: /assets/images/castle3.png
     image_path: /assets/images/castle3.png
+  - url: /assets/images/gallery (4).png
+    image_path: /assets/images/gallery (4).png
 ---
 
 This is the 3D game which was created as part of one of my first semester modules. I developed my skills in building 3D Worlds using Probuilder. I also improved my skills in programming mechanics for 3D games.

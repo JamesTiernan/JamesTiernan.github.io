@@ -20,6 +20,8 @@ gallery_awesome:
 
   - url: /assets/images/ggg.png
     image_path: /assets/images/ggg.png
+  - url: /assets/images/agg2.png
+    image_path: /assets/images/agg2.png
 ---
 
 This is my first ever project I made with Godot. It was made in a few weeks and features various levels.

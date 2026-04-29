@@ -13,8 +13,8 @@ sidebar:
 excerpt: "Here you can find various game projects which I have worked on."
 gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
-  - url: /assets/images/gallery (1).png
-    image_path: /assets/images/gallery (1).png
+  - url: /assets/images/icph.png
+    image_path: /assets/images/icph.png
     
   - url: /assets/images/castle1.png
     image_path: /assets/images/castle1.png

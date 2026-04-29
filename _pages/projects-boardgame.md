@@ -20,6 +20,9 @@ gallery_boardgame:
 
   - url: /assets/images/boardgame3.png
     image_path: /assets/images/boardgame3.png
+
+  - url: /assets/images/boardg1.png
+    image_path: /assets/images/boardg1.png
 ---
 
 During my first semester we had to create a physical board game. This involved designing the games mechanics and also creating the components for the game.
