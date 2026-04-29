@@ -15,6 +15,8 @@ gallery_gameplay:
   # Recommended: width "240px" to "320px" keeps a neat grid
   - url: /assets/images/icph.png
     image_path: /assets/images/icph.png
+    title: "This is a title"
+    caption: "Style pass"
     
   - url: /assets/images/castle1.png
     image_path: /assets/images/castle1.png
