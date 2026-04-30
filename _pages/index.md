@@ -51,7 +51,7 @@ skills:
   <!-- RIGHT: video/content area -->
   <div style="flex:1 1 250px; min-width:250px;">
     <!-- Replace this placeholder with a YouTube iframe or a video tag -->
-    {% include video id="Tc0FzVeg7xc" provider="youtube" %}
+    {% include video id="5-Yo80GlGDs" provider="youtube" %}
   </div>
 
 </div>
